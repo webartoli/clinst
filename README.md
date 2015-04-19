@@ -15,7 +15,7 @@ clinst git
 
 ## How is it works
 
-This project is a simple wrapper of platform specific software
+This project is a simple wrapper/alias of platform specific software
 
  * Windows: chocolately + boxstarter
  * OsX: homebrew + cask
